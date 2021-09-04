@@ -1,0 +1,13 @@
+다비치
+
+Unity 버전
+ - 2021.1.10f1
+
+초기세팅
+window - layers - 2by3
+
+Unity Hub 다운로드
+- https://unity3d.com/kr/get-unity/download
+
+버전 따로 찾기 [ 2021.1.10f1 ]
+- https://unity3d.com/kr/get-unity/download/archive
